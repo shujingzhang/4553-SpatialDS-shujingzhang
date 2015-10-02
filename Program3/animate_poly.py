@@ -11,6 +11,7 @@
             with each other at the beginning.
             
             Tested under Python 3.4
+            Also working on Python 2.7
 """
 
 import pantograph
